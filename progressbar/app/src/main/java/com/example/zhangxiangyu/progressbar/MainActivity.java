@@ -15,8 +15,11 @@ public class MainActivity extends AppCompatActivity {
     ImageView imageView8;
     ImageView imageView9;
     ImageView imageView7;
+<<<<<<< HEAD
     ImageView img8;
     ImageView imageView10;
+
+>>>>>>> feature3
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
