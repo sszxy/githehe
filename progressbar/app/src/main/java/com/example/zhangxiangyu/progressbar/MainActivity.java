@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     ImageView imageView6;
     ImageView imageView8;
     ImageView imageView9;
-    ImageView imageView7;
+    ImageView imageView11;
 
     ImageView img8;
     ImageView imageView10;
