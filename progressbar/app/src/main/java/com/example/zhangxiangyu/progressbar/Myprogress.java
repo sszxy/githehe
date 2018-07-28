@@ -22,6 +22,7 @@ public class Myprogress extends ProgressBar {
     protected synchronized void onDraw(Canvas canvas) {
         canvas.rotate(-90);
         canvas.translate(-getHeight(),0);
+        canvas.restore();
         super.onDraw(canvas);
     }
 }
