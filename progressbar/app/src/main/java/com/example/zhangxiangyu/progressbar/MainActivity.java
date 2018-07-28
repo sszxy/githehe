@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     TextView textView;
     EditText editText;
     ImageView imageView6;
-    ImageView imageView7;
+    ImageView imageView8;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
